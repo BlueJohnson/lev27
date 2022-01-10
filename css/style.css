@@ -1,0 +1,20 @@
+body{
+    background-image: url(img2.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+#bible{
+    margin-top: 120px;
+    padding: 5px 10px;
+    background-color: rgb(45, 146, 160);
+    opacity: 0.8;
+    border-radius: 10px;
+}
+#bible, label{
+    color: rgb(0, 0, 0);
+}
+.section:hover{
+    background-color: #000 !important;
+    
+}
